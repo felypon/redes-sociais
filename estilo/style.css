@@ -60,6 +60,7 @@ section#menu img {
     border-radius: 50%;
     box-sizing: border-box;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.384);
+    position: relative;
 }
 
 section#menu img:hover {
